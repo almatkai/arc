@@ -1,0 +1,6 @@
+Arc extension for Tezbar
+Original Raycast Arc extension and resources by the-browser-company, thomas,
+and the contributors credited in upstream/package.json. The pinned Raycast
+repository MIT license is preserved in LICENSE. See UPSTREAM.json for the
+immutable source revision and exact Git blob inventory. Rust dependency notices
+are listed in licenses/THIRD_PARTY.md.
